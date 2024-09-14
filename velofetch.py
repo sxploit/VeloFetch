@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import getpass, socket, platform
 import os, subprocess
 from colorama import Fore
